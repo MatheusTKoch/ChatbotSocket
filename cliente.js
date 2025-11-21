@@ -1,5 +1,5 @@
-import 'net';
-import 'readline';
+const net = require('net');
+const readline = require('readline');
 
 const config = {
     port: 3000,

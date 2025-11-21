@@ -1,4 +1,4 @@
-import 'net';
+const net = require('net');
 
 const PORT = 3000;
 const HOST = 'localhost';
